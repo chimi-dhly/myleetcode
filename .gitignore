@@ -4,3 +4,6 @@
 
 #Ignore executables
 palindrome
+
+#Ignore vscode config files
+.vscode
